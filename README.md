@@ -1,7 +1,7 @@
 # Applying Federated Learning For Encrypted Traffic Classification In Multi-domain Software Defined Network
 
 [![Paper](https://img.shields.io/badge/Paper-ResearchGate-blue)](https://www.researchgate.net/publication/400264036_Applying_Federated_Learning_For_Encrypted_Traffic_Classification_In_Multi-domain_Software_Defined_Network)
-[![Conference](https://img.shields.io/badge/Published_in-FAIR'2025-red)]([https://doi.org/10.15625/fair.2025](https://fair.conf.vn/))
+[![Conference](https://img.shields.io/badge/Published_in-FAIR'2025-red)](https://fair.conf.vn/)
 
 This is the source code for the paper **Applying Federated Learning For Encrypted Traffic Classification In Multi-domain Software Defined Network** published in **18th National Conference on Fundamental and Applied Information Technology Research (FAIR’2025)** 
 
